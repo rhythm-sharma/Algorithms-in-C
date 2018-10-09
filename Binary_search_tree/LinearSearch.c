@@ -24,4 +24,4 @@ void main(){
 		printf("Value %d is in the array.\n", v);
 	else
 		printf("Value %d is not in the array.\n", v);
-}
+} 
