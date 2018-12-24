@@ -1,24 +1,24 @@
 # Algorithms-in-C
 
-##Array 
+## Array 
 
-##Binary search tree
+## Binary search tree
 
-##Binary tree
+## Binary tree
 
-##Conversion 
+## Conversion 
 
-##Graph
+## Graph
 
-##Hashing
+## Hashing
 
-##Heap
+## Heap
 
-##Linked list
+## Linked list
 
-##Stack
+## Stack
 
-##Queue
+## Queue
 
 
 
